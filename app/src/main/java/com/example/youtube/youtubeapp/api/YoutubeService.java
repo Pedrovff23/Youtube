@@ -17,7 +17,7 @@ public interface YoutubeService {
     ?part=snippet
     &order=date
     &maxResults=20
-    &key=AIzaSyDz7uYd0sDWnAfiZBr4kvaa_cPt24FWezc
+    &key=
     &channelId=UCY8iijN1AkyDCh1Z9akcqUA
     &q=jogo
      */
