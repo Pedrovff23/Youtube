@@ -1,6 +1,6 @@
 # YoutubeApp-Clone
 
-Esse aplicativo Youtube clone é uma cópia simplificada do App Youtube (https://www.youtube.com/)
+Este aplicativo Youtube clone é uma cópia simplificada do App Youtube (https://www.youtube.com/)
 para fins de aprendizado e não tem como objetivo ser distribuído na Google Play.
 
 Esse projeto tem como objetivo mostrar o consumo de uma API do google youtube, utilizei um canal do youtube chamado funky black cat para a demonstração.
